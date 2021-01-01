@@ -1,3 +1,6 @@
+//Made by 트위치봇
+//remake by Geonwoo1109
+
 var g = "\u200d".repeat(500);
 var f = "\0".repeat (500);
 
@@ -5,7 +8,7 @@ importClass(org.jsoup.Jsoup);
 
 var 전체보기 = "\u200b".repeat(500);
 var NN = "\n\n";
-var KEY="626f330394384c3980b83f0727f7a9de";
+var KEY="626f330394384c3980b83f0727f7a9de"; //나이스에서 제공함. API
 var bar = ("=").repeat(20);
 
 function response(room, msg, sender, isGroupChat, replier, imageDB, packageName)
