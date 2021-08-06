@@ -1,6 +1,8 @@
 # School_Lunch_Bot
 Kakaotalk Bot
 
+nice API 이용
+
 [사용된 기능]
 
 1. "\u200d".repeat(500)
